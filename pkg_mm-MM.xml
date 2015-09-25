@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="3.3">
+	<name>Myanmar mm-MM Language Pack</name>
+	<packagename>mm-MM</packagename>
+	<version>3.3.1.1</version>
+	<creationDate>2015-09-25</creationDate>
+	<author>Myo Myint Aung( Juno ) - Myanmar</author>
+	<authorEmail>myomyintaung512@gmail.com</authorEmail>
+	<authorUrl>www.zenobiamedia.com</authorUrl>
+	<copyright>Copyright (C) 2005 - 2014 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+<description>3.3.1.1 Joomla!  Myanmar (Burma) Language Package</description>
+<files>
+        <file type="language" client="administrator" id="mm-MM">admin_mm-MM.zip</file>
+        <file type="language" client="site" id="mm-MM">site_mm-MM.zip</file>
+</files>
+
+<updateservers>
+
+    </updateservers>
+</extension>

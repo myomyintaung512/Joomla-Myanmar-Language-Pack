@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.3" client="site" type="language" method="upgrade">
+	<name>Myanmar (Burma)</name>
+	<tag>mm-MM</tag>
+	<version>3.3.1.1</version>
+	<creationDate>2014-6-12</creationDate>
+	<author>Myo Myint Aung ( JUNO ) - Myanmar</author>
+	<authorEmail>myomyintaung512@gmail.com</authorEmail>
+	<authorUrl>www.zenobiamedia.com</authorUrl>
+	<copyright>Copyright (C) 2014 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>mm-MM site language</description>
+	<files>
+		<filename>images/mm.gif</filename>
+		<filename>index.html</filename>
+		<filename>mm-MM.com_ajax.ini</filename>
+		<filename>mm-MM.com_config.ini</filename>
+		<filename>mm-MM.com_contact.ini</filename>
+		<filename>mm-MM.com_content.ini</filename>
+		<filename>mm-MM.com_finder.ini</filename>
+		<filename>mm-MM.com_mailto.ini</filename>
+		<filename>mm-MM.com_media.ini</filename>
+		<filename>mm-MM.com_messages.ini</filename>
+		<filename>mm-MM.com_newsfeeds.ini</filename>
+		<filename>mm-MM.com_search.ini</filename>
+		<filename>mm-MM.com_tags.ini</filename>
+		<filename>mm-MM.com_users.ini</filename>
+		<filename>mm-MM.com_weblinks.ini</filename>
+		<filename>mm-MM.com_wrapper.ini</filename>
+		<filename>mm-MM.files_joomla.sys.ini</filename>
+		<filename>mm-MM.finder_cli.ini</filename>
+		<filename>mm-MM.ini</filename>
+		<filename>mm-MM.lib_fof.sys.ini</filename>
+		<filename>mm-MM.lib_idna_convert.sys.ini</filename>
+		<filename>mm-MM.lib_joomla.ini</filename>
+		<filename>mm-MM.lib_joomla.sys.ini</filename>
+		<filename>mm-MM.lib_phpass.sys.ini</filename>
+		<filename>mm-MM.lib_phpmailer.sys.ini</filename>
+		<filename>mm-MM.lib_phputf8.sys.ini</filename>
+		<filename>mm-MM.lib_simplepie.sys.ini</filename>
+		<filename>mm-MM.localise.php</filename>
+		<filename>mm-MM.mod_articles_archive.ini</filename>
+		<filename>mm-MM.mod_articles_archive.sys.ini</filename>
+		<filename>mm-MM.mod_articles_categories.ini</filename>
+		<filename>mm-MM.mod_articles_categories.sys.ini</filename>
+		<filename>mm-MM.mod_articles_category.ini</filename>
+		<filename>mm-MM.mod_articles_category.sys.ini</filename>
+		<filename>mm-MM.mod_articles_latest.ini</filename>
+		<filename>mm-MM.mod_articles_latest.sys.ini</filename>
+		<filename>mm-MM.mod_articles_news.ini</filename>
+		<filename>mm-MM.mod_articles_news.sys.ini</filename>
+		<filename>mm-MM.mod_articles_popular.ini</filename>
+		<filename>mm-MM.mod_articles_popular.sys.ini</filename>
+		<filename>mm-MM.mod_banners.ini</filename>
+		<filename>mm-MM.mod_banners.sys.ini</filename>
+		<filename>mm-MM.mod_breadcrumbs.ini</filename>
+		<filename>mm-MM.mod_breadcrumbs.sys.ini</filename>
+		<filename>mm-MM.mod_custom.ini</filename>
+		<filename>mm-MM.mod_custom.sys.ini</filename>
+		<filename>mm-MM.mod_feed.ini</filename>
+		<filename>mm-MM.mod_feed.sys.ini</filename>
+		<filename>mm-MM.mod_finder.ini</filename>
+		<filename>mm-MM.mod_finder.sys.ini</filename>
+		<filename>mm-MM.mod_footer.ini</filename>
+		<filename>mm-MM.mod_footer.sys.ini</filename>
+		<filename>mm-MM.mod_languages.ini</filename>
+		<filename>mm-MM.mod_languages.sys.ini</filename>
+		<filename>mm-MM.mod_login.ini</filename>
+		<filename>mm-MM.mod_login.sys.ini</filename>
+		<filename>mm-MM.mod_menu.ini</filename>
+		<filename>mm-MM.mod_menu.sys.ini</filename>
+		<filename>mm-MM.mod_random_image.ini</filename>
+		<filename>mm-MM.mod_random_image.sys.ini</filename>
+		<filename>mm-MM.mod_related_items.ini</filename>
+		<filename>mm-MM.mod_related_items.sys.ini</filename>
+		<filename>mm-MM.mod_search.ini</filename>
+		<filename>mm-MM.mod_search.sys.ini</filename>
+		<filename>mm-MM.mod_stats.ini</filename>
+		<filename>mm-MM.mod_stats.sys.ini</filename>
+		<filename>mm-MM.mod_syndicate.ini</filename>
+		<filename>mm-MM.mod_syndicate.sys.ini</filename>
+		<filename>mm-MM.mod_tags_popular.ini</filename>
+		<filename>mm-MM.mod_tags_popular.sys.ini</filename>
+		<filename>mm-MM.mod_tags_similar.ini</filename>
+		<filename>mm-MM.mod_tags_similar.sys.ini</filename>
+		<filename>mm-MM.mod_users_latest.ini</filename>
+		<filename>mm-MM.mod_users_latest.sys.ini</filename>
+		<filename>mm-MM.mod_weblinks.ini</filename>
+		<filename>mm-MM.mod_weblinks.sys.ini</filename>
+		<filename>mm-MM.mod_whosonline.ini</filename>
+		<filename>mm-MM.mod_whosonline.sys.ini</filename>
+		<filename>mm-MM.mod_wrapper.ini</filename>
+		<filename>mm-MM.mod_wrapper.sys.ini</filename>
+		<filename>mm-MM.tpl_beez3.ini</filename>
+		<filename>mm-MM.tpl_beez3.sys.ini</filename>
+		<filename>mm-MM.tpl_protostar.ini</filename>
+		<filename>mm-MM.tpl_protostar.sys.ini</filename>
+		<filename file="meta">mm-MM.xml</filename>
+		<filename file="meta">install.xml</filename>
+	</files>
+	<media folder="media" destination="mod_languages">
+		<filename>images/mm.gif</filename>
+	</media>
+  <params />
+</extension>
